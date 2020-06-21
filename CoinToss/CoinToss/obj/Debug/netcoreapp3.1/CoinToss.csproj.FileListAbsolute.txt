@@ -1,0 +1,13 @@
+C:\Projetos\CoinToss\CoinToss\bin\Debug\netcoreapp3.1\CoinToss.exe
+C:\Projetos\CoinToss\CoinToss\bin\Debug\netcoreapp3.1\CoinToss.deps.json
+C:\Projetos\CoinToss\CoinToss\bin\Debug\netcoreapp3.1\CoinToss.runtimeconfig.json
+C:\Projetos\CoinToss\CoinToss\bin\Debug\netcoreapp3.1\CoinToss.runtimeconfig.dev.json
+C:\Projetos\CoinToss\CoinToss\bin\Debug\netcoreapp3.1\CoinToss.dll
+C:\Projetos\CoinToss\CoinToss\bin\Debug\netcoreapp3.1\CoinToss.pdb
+C:\Projetos\CoinToss\CoinToss\obj\Debug\netcoreapp3.1\CoinToss.csprojAssemblyReference.cache
+C:\Projetos\CoinToss\CoinToss\obj\Debug\netcoreapp3.1\CoinToss.AssemblyInfoInputs.cache
+C:\Projetos\CoinToss\CoinToss\obj\Debug\netcoreapp3.1\CoinToss.AssemblyInfo.cs
+C:\Projetos\CoinToss\CoinToss\obj\Debug\netcoreapp3.1\CoinToss.csproj.CoreCompileInputs.cache
+C:\Projetos\CoinToss\CoinToss\obj\Debug\netcoreapp3.1\CoinToss.dll
+C:\Projetos\CoinToss\CoinToss\obj\Debug\netcoreapp3.1\CoinToss.pdb
+C:\Projetos\CoinToss\CoinToss\obj\Debug\netcoreapp3.1\CoinToss.genruntimeconfig.cache
